@@ -1,0 +1,19 @@
+{
+  "name": "practice-twilio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "twilio-demo.js",
+  "scripts": {
+    "test": "nodemon app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "angular": "^1.6.4",
+    "body-parser": "^1.17.2",
+    "express": "^4.15.3",
+    "dotenv-node": "0.0.2",
+    "twilio": "^3.3.0"
+  }
+}
