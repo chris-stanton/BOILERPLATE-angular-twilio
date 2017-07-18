@@ -1,3 +1,9 @@
+
+# Angular Twilio Boilerplate
+###### Basic application with working Twilio example using Angular.js on the front-end and Express.js on the server-side.
+
+---
+
 ## Technologies Used
   1. Express
   2. Angular
@@ -7,7 +13,11 @@
   6. dotenv-node
   7. GIT / GitHub
 
+---
 
+## Create .env file
+
+---
 
 ## Install App
   1. Download zip file
@@ -17,10 +27,6 @@
     - ``` npm start ``` Starts server
     - ``` npm test ``` Starts server using Nodemon
   4. Server is listening on port: 5000
-
----
-
-## Create .env file
 
 ---
 
