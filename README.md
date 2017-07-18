@@ -1,6 +1,8 @@
 
 # Angular Twilio Boilerplate
-###### Basic application with working Twilio example using Angular.js on the front-end and Express.js on the server-side.
+###### Basic application with working Twilio example using Angular.js on the front-end and Express.js on the server-side. 
+
+<img src="./public/images/screenshots/screenshot.png" width="50%">
 
 ---
 
