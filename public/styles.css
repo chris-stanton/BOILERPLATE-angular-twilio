@@ -1,0 +1,37 @@
+
+body {
+  margin: 0px;
+  padding: 0px;
+}
+
+.container {
+  text-align: center;
+  margin-top: 40px;
+}
+
+.container h1 {
+  font-size: 40px;
+}
+
+input, textarea {
+  width: 600px;
+  margin: 30px;
+  font-size: 15px;
+}
+
+input {
+  height: 30px;
+}
+
+textarea {
+  height: 300px;
+}
+
+button {
+  font-size: 15px;
+  border-radius: 10px;
+  background-color: #2419f6;
+  color: #ffffff;
+  height: 50px;
+  width: 200px;
+}
